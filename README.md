@@ -46,7 +46,7 @@ For detailed instructions on how to play each game, refer to the respective page
 To get started with the Mini Game Arcade, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/rishwanthvallala/mini_game_arcade.git`
-2. Navigate to the project directory: `cd mini-game-arcade`
+2. Navigate to the project directory: `cd mini_game_arcade`
 3. Compile the games: `gcc project.c -o project` 
 4. Run a game: `./project`
 
